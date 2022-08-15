@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131_020X_040X
+#  Project 3 - Soldiers: Soldiers
+
+courseName=CMSC131_020X_040X
+semester=201908
+projectNumber=3 - Soldiers
+courseKey=42d6a754a7993f06
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2019
+submitURL=https://submit.cs.umd.edu:443/fall2019/eclipse/SubmitProjectViaEclipse
